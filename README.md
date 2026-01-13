@@ -1,4 +1,4 @@
-# SLOs can't catch a Black Swan
+# SLOs can't catch a Black Swan!
 
 ![][SLO-SWAN-ANIMATED]
 
