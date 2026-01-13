@@ -8,7 +8,7 @@ on:
 #      - 'scripts/**'
 #      - 'MANIFEST.md'
 #      - 'requirements.txt'
-#  workflow_dispatch:
+  workflow_dispatch:
   pull_request:
     types: [closed]
     branches:
